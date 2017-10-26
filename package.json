@@ -1,0 +1,26 @@
+{
+  "name": "jshashtable.js",
+  "description": "A standalone JavaScript implementation of hash table with arbitrary keys",
+  "version": "3.0",
+  "main": [
+    "hashtable.js",
+    "hashset.js"
+  ],
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Tim Down",
+    "email": "tim@timdown.co.uk"
+  },
+  "homepage": "http://www.timdown.co.uk/jshashtable/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timdown/jshashtable.git"
+  },
+  "keywords": [
+    "javascript",
+    "hash",
+    "hashmap"
+    "hastable",
+    "hashset"
+  ]
+}
